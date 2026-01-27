@@ -135,4 +135,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Built with ❤️ for a peaceful world** 🕊️
+**Built with ❤️ for a peaceful world** 
